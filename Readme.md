@@ -60,7 +60,7 @@ Bootstrap
  - To open it on web browser and perform the actions use  http://localhost:4200.
 
   
-## Contributing
+## Contributors
 
 - This is a group project, our team-size is of 6-members.
 - Each member of our team has been worked on 2-3 story-points.
