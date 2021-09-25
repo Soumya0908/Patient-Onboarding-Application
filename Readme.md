@@ -67,5 +67,5 @@ Bootstrap
 
 ### My role
 - I have worked on both backend and front-end.
-- I have implemented Doctor-registration, login, view the patient appointments of the doctor and also view my-profile of the doctor and update the details if any changes has to be done except salary and doctorId.
+- I have implemented Doctor-registration, login, view the patient appointments for the doctor and also view my-profile of the doctor and update the details if any changes has to be done except salary and doctorId which can be updated by admin.
 - Tested each and every method using postman before implementing in the angular.  
