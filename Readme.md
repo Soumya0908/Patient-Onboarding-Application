@@ -54,8 +54,9 @@ Bootstrap
  - Then click on existing maven project, choose the spring-project from the folder then next and finish.
  - Make sure that you have a PostgreSQL database or if you want to work with any other data-base then change the dependency in pom.xml and also change the properties in the application.properties file  resources.
  - If you want to know the dependencies added to the project open pom.xml file. 
- - And by clicking on the link provided, you will reach the page of angular project download that.
- - Then extract the file after extracting it, from VisualStudioCode select the folder of the project and open terminal run npm install and to start server run npm start.  
+ - And run the spring application by rightclicking on project then select --> run-as-->Spring-Boot-App.
+ - And also download the angular project.
+ - Then extract the project, after extracting it, open VisualStudioCode select the folder of the project and open terminal run npm install and to start server run npm start.  
  - To open it on web browser and perform the actions use  http://localhost:4200.
 
   
